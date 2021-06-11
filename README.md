@@ -181,3 +181,7 @@ Copyright (c) 2012-2014 Ford Motor Company
 Licensed under the BSD license.
 
 [OpenXC]: http://openxcplatform.com
+
+<a href="https://partnernetwork.ionos.com/partner/bdproauto?origin=PartnerBadge">
+<img src="https://images-2.partnerportal.ionos.com/items/3004cfad-d0f3-4a9a-98f9-e92126d5072a/profiles/bb743820-ecf0-48db-a9f7-de9e3c3b83c4/badges/normal_white" alt="IONOS - Official Partner">
+</a>
